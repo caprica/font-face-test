@@ -1,0 +1,47 @@
+export const CSS = `  @font-face {
+    font-family: 'Matter';
+    src: url(/fonts/matter-light-webfont.woff);
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Matter';
+    src: url(/fonts/matter-regular-webfont.woff);
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Matter';
+    src: url(/fonts/matter-medium-webfont.woff);
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Matter';
+    src: url(/fonts/matter-semibold-webfont.woff);
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Matter';
+    src: url(/fonts/matter-bold-webfont.woff);
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Matter';
+    src: url(/fonts/matter-heavy-webfont.woff);
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+  }`
