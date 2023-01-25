@@ -4,7 +4,7 @@ interface Props {
     weight: string
 }
 
-const sample = 'The quick brown fox jumped over the lazy dog'
+const sample = 'The quick brown fox jumps over the lazy dog'
 
 export const FontInfo = ({ family, weight }: Props) => {
 
